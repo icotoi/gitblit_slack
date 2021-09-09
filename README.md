@@ -1,2 +1,2 @@
-# gitblick_slack
+# gitblit_slack
 Git:blit slack notification plugin
